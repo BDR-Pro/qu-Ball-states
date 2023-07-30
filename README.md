@@ -23,3 +23,10 @@ In this task, you will create Qiskit circuits for various Ball-State cases.
 
 
 Ensure to organize your project neatly and provide clear explanations of your work at each step. Use code comments to explain the purpose of each part of the code. The report should be well-structured and easy to follow, including relevant figures and diagrams where necessary. Good luck with your Ball-State exploration using Qiskit!
+
+
+# References
+
+> [Qiskit documentation ](https://learn.qiskit.org)
+>    
+> [introduction to classical and quantum computing-book](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
